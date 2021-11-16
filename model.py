@@ -1,9 +1,3 @@
-###########################################################################
-# Created by: Tramac
-# Date: 2019-03-25
-# Copyright (c) 2017
-###########################################################################
-
 """Fast Segmentation Convolutional Neural Network"""
 import os
 import torch
