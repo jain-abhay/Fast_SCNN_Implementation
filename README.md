@@ -1,5 +1,4 @@
-# fast_scnn
-**This model used as part of [The Oracle](https://youtu.be/BMZZG9P4NsU?t=4426) project**
+# Fast SCNN Implementation
 
 ![alt text](./demo/PaperImage.PNG "Model structure")  
 
